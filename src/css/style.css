@@ -1,0 +1,80 @@
+
+body, html{
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-family:sans-serif;
+    scroll-behavior: smooth;  
+    scrollbar-width: none;
+}
+
+
+.container-fluid, .row
+{
+    justify-content:center;
+    width:100%;
+    height:auto;
+    padding:0;
+    margin:0;
+    height:auto;
+
+}
+
+header{
+    height:10vh;
+    background-color:black;
+}
+
+h1{
+    padding-top:10px;
+    font-family: verdana;
+    font-weight: bold;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 5vh;
+    color: rgb(0, 255, 255);
+    background-color: rgb(84, 84, 84);
+    text-shadow: rgb(0, 0, 0) 2px 2px 2px;
+  
+}
+
+h2{
+    font-family: verdana;
+    font-size: 4vh;
+    font-weight:bold;
+}
+
+
+
+
+
+main{
+    height:90vh;
+}
+
+.menu{
+    height:90vh;
+    overflow-y: auto;
+}
+
+.presentation{
+    width:auto;
+    height:100%;
+}
+
+
+
+
+
+.modal-content {
+    width:auto;
+    height:auto;
+}
+
+.modal-content img {
+    width:200px;
+    height:200px;
+}
+
+  
