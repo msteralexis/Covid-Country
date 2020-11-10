@@ -104,7 +104,7 @@ $(document).ready(function(){
     for (var item in data ) {
       listPaysHtml += '<tr>   <input type="hidden" class="val"  value="'+item+'" />  <td>  '+item +' </td>'; 
       listPaysHtml += ' <td> <a href="#" class="btn btn-info pays"  >   <img alt="click Pour Plus d\'informations" src="src/image/loupe.jpg" style="height:30px;  width:30px; border-radius:50%;" />    </a>   </td> ';
-      listPaysHtml += '  <td>  <a href="#" class="btn btn-danger suprimePays"  >     <img alt="click Pour suprimer" src="src/image/suprimmer.jpg" style="height:30px;  width:30px; border-radius:50%;" />   </a></td> </tr>    ';
+      listPaysHtml += '  <td>  <a href="#" class="btn btn-danger suprimePays"  >     <img alt="click Pour suprimer" src="src/image/delete.jpg" style="height:30px;  width:30px; border-radius:50%;" />   </a></td> </tr>    ';
       $('#listPays').html(listPaysHtml);
     } 
   }

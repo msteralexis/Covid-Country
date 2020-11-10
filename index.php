@@ -9,7 +9,6 @@
     <script src="src/css/jquery.js">   </script> 
     <link rel="stylesheet" href="src/css/style.css">
     <script src="src/css/jquery-modal.js">   </script> 
-    <script src="src/css/jj.js"></script>
     <script src="src/css/index.js">   </script> 
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -79,7 +78,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6 col-xs-6 col-sm-6 "> 
             <h1  >  Bienvenue <h1>
-            <img  src="src/image/coco.jpg" />
+            <img  src="src/image/covid.jpg" />
           </div>
 
           <div class="col-lg-6 col-md-6 col-xs-6 col-sm-6 "> 
